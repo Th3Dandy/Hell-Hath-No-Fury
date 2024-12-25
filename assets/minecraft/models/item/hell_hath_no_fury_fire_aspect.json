@@ -1,7 +1,0 @@
-{
-    "parent":"item/handheld",
-    "textures":{
-       "layer0":"item/hell_hath_no_fury",
-       "layer1":"item/netherite_sword_fire_aspect"
-    }
- }
